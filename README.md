@@ -7,3 +7,7 @@
 
 03_src:《Qt Creator快速入门》
 
+04_src: Qt5.9 C++开发指南
+
+05_src: QT5开发及实例
+
